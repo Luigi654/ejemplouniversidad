@@ -10,5 +10,6 @@ public class main1 extends Application {
     @Override
     public void start(Stage primaryStage) {
         System.out.println("Hola mundo");
+        System.out.println("chau");
     }
 }
